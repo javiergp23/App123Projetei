@@ -1,0 +1,19 @@
+{
+    "usuarios":[{
+        "id": 1,
+        "apellido_paterno": "Gonzalez",
+        "apellido_materno": "Padilla",
+        "nombre": "Javier",
+        "userName": "javiergp23",
+        "password": "827ccb0eea8a706c4c34a16891f84e7b"
+    },
+    {
+        "id": 2,
+        "apellido_paterno": "Torchino",
+        "apellido_materno": "Bellucci",
+        "nombre": "Delfina",
+        "userName": "delfi24",
+        "password": "e35cf7b66449df565f93c607d5a81d09"
+
+    }]
+}
